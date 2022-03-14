@@ -7,12 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-	<h1>치킨은 우리집에서</h1>
-	<h2>12시에 출발해야지</h2>
-
-	<h1>conflict</h1>
-
-
+<h1>훌랄라치킨</h1>
 </body>
 </html>
