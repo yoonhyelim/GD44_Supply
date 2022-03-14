@@ -14,10 +14,10 @@
 	
 	<h3>6분남았다</h3>
 	<h1>conflict</h1>
-=======
+
 
 	<h1>conflict_2지롱</h1>
-
+<h1>conflict 3</h1>
 
 
 </body>
